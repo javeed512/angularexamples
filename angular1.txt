@@ -1,0 +1,105 @@
+
+
+
+
+Angular Setup:
+-----------------
+1. Install Nodejs server
+2. It will by default install npm ( node package manager)
+3. Install Angular  along with CLI using following commands
+
+  npm  install -g   @angular/cli     ---> this will install angular latest version with CLI
+
+ 
+Creating Angular Project/Application:
+-------------------------------------
+
+ ng  new  application_name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @Component(
+
+
+
+	)	
+ class   HelloComponent{
+
+
+
+
+ }
+
+
+
+ component class file                  <---------  Service class services/behaviors
+ component.spec  testing file
+
+ html file  (template)
+ css file   (style)	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+
+
+	<img [src]="">
+
+	<input type="text" name="username" value="javeed">
+
+	<form  action="" method="">
+
+
+
+
+</html>
+
+
+
+
+
+
+[()]
+
+
+
+
+
+
+
+
+
+
+
+
